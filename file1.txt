@@ -1,3 +1,4 @@
 1.This is a text file for git test.
 2.We change the content in this file.
 3.Continue...
+4.brunch master
